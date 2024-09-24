@@ -6,11 +6,9 @@ This is a simple 'Hello World' program, showing how these tools can work togethe
 
 I created it to improve my coding skills, version control and use of development environments. It's also a step towards becoming better at code management and collaborating with others.
 
-Demo Video 🎥
+## Demo Video 🎥
 
-You can check out the demonstration video at the following link:
-
-[Software Demo Video](https://www.loom.com/share/52f3195e513142e1b238f67e5cd56059?sid=d7f495f2-4035-44ac-b394-2bffa6127c2b)
+You can check out the demonstration video at the following link: [Software Demo Video](https://www.loom.com/share/52f3195e513142e1b238f67e5cd56059?sid=d7f495f2-4035-44ac-b394-2bffa6127c2b)
 
 # Development Environment
 
