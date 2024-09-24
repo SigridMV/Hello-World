@@ -1,14 +1,14 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, I am always looking for ways to learn and improve. This project is a way to get better at using tools like Visual Studio Code, Git, GitHub and Python together. 💻✨
 
-This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, Git, Github and Python integrated together.
+This is a simple 'Hello World' program, showing how these tools can work together in a basic setup.
 
-{Provide a description of your software}
+I created it to improve my coding skills, version control and use of development environments. It's also a step towards becoming better at code management and collaborating with others.
 
-{Describe your purpose for creating this software.}
+Demo Video 🎥
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+You can check out the demonstration video at the following link:
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -20,6 +20,7 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Visual Studio Code](http://url.link.goes.here)
-* [Python 3.12.6 Ref Manual](http://url.link.goes.here)
+* [Visual Studio Code Downloads](https://code.visualstudio.com/Download)
+* [Python 3.12.6 Download](https://www.python.org/downloads/)
+* [Git Downloads](https://git-scm.com/downloads)
+* [Github Login](https://github.com/login)
