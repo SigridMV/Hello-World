@@ -10,7 +10,7 @@ Demo Video 🎥
 
 You can check out the demonstration video at the following link:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/52f3195e513142e1b238f67e5cd56059?sid=d7f495f2-4035-44ac-b394-2bffa6127c2b)
 
 # Development Environment
 
